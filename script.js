@@ -22,7 +22,7 @@ quoteForm?.addEventListener("submit", (event) => {
 
   // IMPORTANT: Replace this with Mitrayah's real WhatsApp number.
   // Format: country code + number, without +, spaces or dashes.
-  const whatsappNumber = "919834119324";
+  const whatsappNumber = "919284797361";
 
   const name = document.getElementById("name").value.trim();
   const phone = document.getElementById("phone").value.trim();
